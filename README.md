@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shai Kohn</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-<h3 align="left">I am a 19 year old looking for the opportunity to enter the professional world of web development. I have knowledge in Javascript, React, Node JS, among others and soft skills such as dedication, decision making and perseverance.</h3>
+<h3 align="left">I am a 19-year-old looking for the opportunity to enter the professional world of web development. I have knowledge in Javascript, React, Node JS, among others. Regarding soft skills, I personally highlight my dedication, decision making and perseverance.</h3>
 
 - 🌱 I’m currently learning **Java**
 
