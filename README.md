@@ -3,13 +3,13 @@
 
 <h3 align="left">I am a 19-year-old looking for the opportunity to enter the professional world of web development. I have knowledge in Javascript, React, Node JS, among others. Regarding soft skills, I personally highlight my dedication, decision making and perseverance.</h3>
 
-- 🌱 I’m currently learning **Java**
-
 - 💬 Ask me about **React JS and Node JS**
 
 - 📫 How to reach me **shaicokohn@gmail.com**
 
 - 💼 Portfolio: https://portfolio-shaikohn.vercel.app/
+
+- 📝 CV: https://drive.google.com/file/d/1znUBlsgv40pCVokicJVJTR9Qz5PMGXGi/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
