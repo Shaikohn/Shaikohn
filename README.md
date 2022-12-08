@@ -9,7 +9,7 @@
 
 - 💼 Portfolio: https://portfolio-shaikohn.vercel.app/
 
-- 📝 CV: https://drive.google.com/file/d/1znUBlsgv40pCVokicJVJTR9Qz5PMGXGi/view?usp=share_link
+- 📝 CV: https://drive.google.com/file/d/1ZcvMxNOsYfjgmSbDC1_xgHD3o4zFWoA-/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
