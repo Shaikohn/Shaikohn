@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shai Kohn</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-<h3 align="left">I am a 19-year-old looking for the opportunity to enter the professional world of web development. I have knowledge in Javascript, React, Node JS, among others. Regarding soft skills, I personally highlight my dedication, decision making and perseverance.</h3>
+<h3 align="left">Hello! My name is Shai Kohn. I am currently looking for a job as a junior web developer, I can work both in the front and in the back, although I prefer the front. I am an enthusiastic person who enjoys learning and new challenges, that's why I decided to study Full Stack Development.
+I have knowledge in Javascript, ECMAScript6, React, Redux, CSS, HTML, NodeJS, Express, Sequelize, PostgreSQL, MongoDB, Bootstrap and at the moment i am learning Java.</h3>
 
 - 💬 Ask me about **React JS and Node JS**
 
@@ -9,9 +10,9 @@
 
 - 💼 Portfolio: https://portfolio-shaikohn.vercel.app/
 
-- 📝 CV in Spanish: https://drive.google.com/file/d/1ZcvMxNOsYfjgmSbDC1_xgHD3o4zFWoA-/view?usp=share_link
+- 📝 CV in Spanish: https://drive.google.com/file/d/1px3UxrGlKPlyxvW8CmR6Hi2NQdjU01ft/view
 
-- 📝 CV in English: https://drive.google.com/file/d/1pHpDcQWUEF8tKomoMEV7ck7X986ICu2e/view?usp=share_link
+- 📝 CV in English: https://drive.google.com/file/d/1gXJd1fKQKxfcdiUhD4d1jUeUEti1DLJ2/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
