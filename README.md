@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Shai
 
-I'm a Full Stack Developer in training, currently studying programming at UTN and building real-world web applications to strengthen my skills.
+I'm a Full Stack Developer in training, currently studying programming at UTN and a graduate of the Soy Henry bootcamp, where I completed an intensive full stack development program focused on real-world projects and agile teamwork.
 
 I'm passionate about clean code, user-centered design, and continuous learning. I work mainly with **JavaScript**, **React**, **Node.js**, and **MongoDB**, and I'm always open to exploring new technologies.
 
